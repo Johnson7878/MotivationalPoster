@@ -1,0 +1,23 @@
+#special{
+    color: gold;
+    font-size: 3rem;
+    letter-spacing: 23px;
+    font-family: 'Source Serif Pro', serif;
+    margin-left: 15px;
+}
+img{
+    border: 5px solid gold;
+    width: 100%;
+}
+body {
+    background-color: black;
+  }
+  .poster {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: white;
+    font-family: 'Source Serif Pro', serif;
+    text-align: center;
+    font-size: 1.2em;
+  }
